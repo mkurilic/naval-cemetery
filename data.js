@@ -497,7 +497,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Virtualna šetnja Mornaričkim grobljem",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
